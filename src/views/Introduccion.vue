@@ -5,10 +5,17 @@
   
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span
-          i.fas.fa-info
+        span i
+          
       h1 Introducción
-
+    p(data-aos="zoom-out") Bienvenidos a este componente formativo, donde como primera instancia, vamos a ver el siguiente video que nos dará una introducción general a la temática a tratar, para luego empezar a desarrollar cada uno de los contenidos:
+    <br>
+    .row.justify-content-center.bgvideos
+      .col-lg-10.mt-2
+        figure
+          .video(data-aos="zoom-out-up")
+            iframe(width="560" height="215" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        
 </template>
 
 <script>
