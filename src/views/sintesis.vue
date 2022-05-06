@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span S
-      h1 Síntesis
+      
 
     p.m-0 Este documento contiene toda la Identificación de recursos para procedimientos operativos en tratamiento de aguas, con el fin de que el estudiante pueda identificar la capacidad y condiciones de aprovechamiento del recurso hídrico, analizar y apropiarse de los procedimientos, técnicas existentes para la potabilización y procesos llevados a cabo para la depuración del agua. Además, expone las sustancias químicas que se emplean para los procedimientos de tratamiento de aguas y analiza algunos elementos y normatividad que hacen parte de la operación, de tal manera que se pueda generar conciencia desde cada uno de nosotros, sea como individuo, empresa o ente gubernamental y entender que realizar buenas prácticas en todo el proceso, permite minimizar los riesgos que pueden darse por desinformación o mala implementación de los procesos. 
   

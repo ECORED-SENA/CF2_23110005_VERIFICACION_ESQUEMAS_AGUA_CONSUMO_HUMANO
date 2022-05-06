@@ -10,7 +10,7 @@
       h1 Introducción
     p(data-aos="zoom-out") Bienvenidos a este componente formativo, donde como primera instancia, vamos a ver el siguiente video que nos dará una introducción general a la temática a tratar, para luego empezar a desarrollar cada uno de los contenidos:
     <br>
-    .row.justify-content-center.bgvideos
+    .row.justify-content-center.bgvideos.p-4.pb-5
       .col-lg-10.mt-2
         figure
           .video(data-aos="zoom-out-up")

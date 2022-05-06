@@ -141,123 +141,66 @@ export default {
   referencias: [
     {
       referencia:
-        'Aqualia. (2017). Depuración y reutilización de aguas residuales. ¿Qué es una EDAR y cómo funciona?',
+        'Acero, J. L. (2019). Normatividad del agua potable en Colombia.',
       link:
-        'http://acuatecnica.com/cual-es-la-normatividad-vigente-sobre-aguas-residuales-en-colombia/ ',
+        'https://acuatecnica.com/normatividad-del-agua-potable-en-colombia/',
     },
     {
       referencia:
-        'Barreto. L. (2020). ¿Sabes qué son los sistemas de abastecimiento de agua? ',
+        'Asiprex. (2021). La importancia de la seguridad y salud en el trabajo.',
       link:
-        'https://sswm.info/es/gass-perspective-es/acerca-de-esta-herramienta/%C2%BFsabes-qu%C3%A9-son-los-sistemas-de-abastecimiento-de-agua%3F ',
+        'https://asiprex.com/la-importancia-de-la-seguridad-y-salud-en-el-trabajo/',
     },
     {
       referencia:
-        'Equipo de Planificación de Alcantarillado. (2009). Manual de Planificación de Alcantarillado. ',
-      link: 'https://openjicareport.jica.go.jp/pdf/12044350_05.pdf ',
-    },
-    {
-      referencia:
-        'Gobierno de Colombia. (s.f.). Reglamento técnico del sector de agua potable y saneamiento básico.',
+        'BBVA. (2021). ¿Cuál es el proceso de potabilización del agua y cuáles son sus fases?',
       link:
-        'https://www.minvivienda.gov.co/viceministerio-de-agua-y-saneamiento-basico/reglamento-tecnico-sector/reglamento-tecnico-del-sector-de-agua-potable-y-saneamiento-basico-ras',
+        'https://www.bbva.com/es/sostenibilidad/que-es-el-proceso-de-potabilizacion-del-agua-y-cuales-son-sus-fases/',
     },
     {
-      referencia:
-        'Instituto Nacional de Salud. (2011). Programa de Vigilancia por Laboratorio de la Calidad de Agua para Consumo Humano.',
+      referencia: 'Boss Tech. (2020). ¿Qué tipos de químicos se utilizan?',
       link:
-        'https://www.ins.gov.co/sivicap/Documentacin%20SIVICAP/2011%20Manual%20toma%20de%20muestras%20agua.pdf#:~:text=Sistema%20de%20suministro%20de%20agua%20para%20consumo%20humano%3AEs,conducci%C3%B3n%20y%20distribuci%C3%B3n%20del%20agua%20para%20consumo%20humano.',
+        'https://bosstech.pe/tipos-quimicos-ptar/#:~:text=Los%20agentes%20reductores%2C%20tambi%C3%A9n%20conocidos%20como%20agentes%20oxidantes%2C,cloro%20y%20contaminantes%20biol%C3%B3gicos%2C%20de%20las%20aguas%20residuales.',
     },
     {
       referencia:
-        'López Mora, R. (2019). El Abastecimiento de agua y saneamiento urbano. Agua y Territorio, 14, 133–134. ',
-      link: 'https://doi.org/10.17561/at.14.4978 ',
-    },
-    {
-      referencia:
-        'Ministerio de Desarrollo Económico. (2000). Documentación técnico-normativa del sector de agua potable y saneamiento básico.',
+        'EMDUPAR. (2011). Manual de procedimientos de acueducto y alcantarillado.',
       link:
-        'https://www.minvivienda.gov.co/sites/default/files/documentos/010710_ras_titulo_a_.pdf ',
+        'https://www.emdupar.gov.co/index.php/la-entidad/sistema-integrado-de-gestion/Planeacion/Manuales/MA-GA-01%20MANUAL%20DE%20%20PROCEDIMIENTOS%20DE%20ACUEDUCTO%20Y%20ALCANTARILLADO.pdf/detail',
     },
     {
       referencia:
-        'Ministerio de Vivienda, Ciudad y Territorio. (2018). Resolución número 0844.',
+        'Mintrabajo. (s.f.). Sistema de Gestión de la Seguridad y Salud en el Trabajo (SG-SST).',
       link:
-        'https://www.minvivienda.gov.co/sites/default/files/documentos/0844-2018.pdf ',
+        'https://www.mintrabajo.gov.co/documents/20147/51963/Guia+tecnica+de+implementacion+del+SG+SST+para+Mipymes.pdf/e1acb62b-8a54-0da7-0f24-8f7e6169c178',
     },
     {
       referencia:
-        'Pocería Sin Zanja. (2019). Pocería sin zanja: Diseño de la red de saneamiento',
+        'SEDAPAR. (2017). Ampliación y mejoramiento del sistema de agua potable y alcantarillado sanitario en la localidad de Chuquibamba, Distrito de Chuquibamba, provincia de Condesuyos, departamento y región de Arequipa.',
       link:
-        'https://www.poceriasinzanja.es/poceria-sin-zanja-diseno-de-la-red-de-saneamiento/',
-    },
-    {
-      referencia: 'Real Academia Española. (2020). Alcantarillado.',
-      link: ' https://dpej.rae.es/lema/alcantarillado ',
-    },
-    {
-      referencia:
-        'Research Integrity. (s.f.). Métodos de Recaudación de Información. ',
-      link:
-        'https://ori.hhs.gov/m%C3%B3dulo-4-m%C3%A9todos-de-recaudaci%C3%B3n-de-informaci%C3%B3n-secci%C3%B3n-1#:~:text=Algunos%20m%C3%A9todos%20de%20recolecci%C3%B3n%20de%20informaci%C3%B3n%20incluyen%20encuestas%2C,observaciones%2C%20revisi%C3%B3n%20de%20registros%20existentes%20y%20muestras%20biol%C3%B3gicas. ',
-    },
-    {
-      referencia:
-        'Rodríguez, J. A. (s.f.). Sistemas de tratamiento de aguas residuales. ',
-      link: 'https://cidta.usal.es/cursos/etap/modulos/libros/sistemas.PDF  ',
-    },
-    {
-      referencia:
-        'TechnoLux. (s.f.) Características de la elección de tuberías y accesorios para alcantarillado. ',
-      link:
-        'https://myhouse.technoluxpro.com/es/kanalizaciya/kanalizacionnye-truby-i-fitingi/ ',
-    },
-    {
-      referencia:
-        'Servicios Especializados en Tratamientos de Aguas de Colombia, SETAC. (s.f.). Sistemas de tratamiento de aguas.',
-      link: 'https://setac.com.co/sistema-de-tratamiento-de-aguas/ ',
-    },
-    {
-      referencia:
-        'TV Agro. (2015). Tratamiento de Aguas Residuales. [Video]. YouTube. ',
-      link: 'https://www.youtube.com/watch?v=ktxKQC4FWc8',
-    },
-    {
-      referencia: 'Velázquez, A. (2015). El sistema de agua. ',
-      link:
-        'https://es.slideshare.net/AlejandroS25/el-sistema-de-agua#:~:text=El%20sistema%20de%20agua%20El%20sistema%20de%20agua,un%20servicio%20adecuado%20a%20los%20usuarios%20y%20usuarias',
+        'https://www.sedapar.com.pe/wp-content/uploads/2018/02/9.MANUAL-DE-PUESTA-EN-MARCHA-1.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Agua potable',
+      termino: 'Áreas de cribas',
       significado:
-        'Es el agua que cumple con condiciones óptimas tanto físicas, químicas y microbiológicas y por tanto es apta para el consumo humano.',
+        'Son aquellas máquinas instaladas específicamente en la entrada de una instalación de tratamiento residual, con el fin de retirar los sólidos más grandes antes de que alcancen a llegar a las bombas de aguas residuales u otras maquinarias de tratamiento.',
     },
     {
-      termino: 'Alcantarillado',
+      termino: 'Desarenador',
       significado:
-        'Red de canalización que se encarga de conducir las aguas residuales urbanas, domésticas o rurales hasta los puntos de incorporación para ser depuradas.',
+        'Es una herramienta diseñada para retener la arena que traen las aguas residuales, con el fin de evitar que estas pasen al proceso de tratamiento y por lo tanto generen problemas de contaminación.',
     },
     {
-      termino: 'Captación',
+      termino: 'Tratamientos físicos',
       significado:
-        'La captación es la parte inicial del sistema hidráulico y, es aquí donde se recoge la cantidad de agua necesaria para abastecer a la población.',
+        'Este concepto hace referencia a todos los métodos que pueden implementarse en una separación física, es decir, en una separación de sólidos. Son muy importantes las propiedades físicas de estos contaminantes para definir el método de separación.',
     },
     {
-      termino: 'Fuentes de abastecimiento',
+      termino: 'Tuberías de drenaje',
       significado:
-        'Son depósitos o cursos de agua que pueden ser superficiales, subterráneas, atmosféricas o marinas utilizadas para el abastecimiento de la población.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Saneamiento',
-      significado:
-        'El saneamiento es el conjunto de procesos y/o acciones técnicas y socioeconómicas de salud pública que buscan alcanzar, en este caso, niveles de crecimiento en salud ambiental por el buen manejo sanitario del agua potable.',
+        'Son aquellas tuberías conectadas directamente a una tubería principal con el fin de captar el agua lluvia.',
     },
   ],
   complementario: [

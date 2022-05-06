@@ -106,48 +106,48 @@
       h2 3.3. Elementos de protección personal 
     p.m-0.mb-5 Los Elementos de Protección Personal (EPP) son todos aquellos equipos que están destinados a proteger de varios riesgos que puedan poner en riesgo su salud o seguridad en el trabajo; además, de esto un elemento de protección personal importante es la capacitación continua del uso de los mismos, de las medidas preventivas al momento de realizar las labores correspondientes a cada operador de la planta. Dentro de los EPP utilizados se pueden mencionar:
 
-    .row.mb-5
+    .row.mb-5.justify-content-center
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img10.svg', alt='')
-          p.mb-0 Casco de seguridad
+          h3.mb-0 Casco de seguridad
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img11.svg', alt='')
-          p.mb-0 Gorro o cofia
+          h3.mb-0 Gorro o cofia
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img12.svg', alt='')
-          p.mb-0 Gafas de seguridad
+          h3.mb-0 Gafas de seguridad
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img13.svg', alt='')
-          p.mb-0 Careta de seguridad
+          h3.mb-0 Careta de seguridad
     .row.mb-5
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img14.svg', alt='')
-          p.mb-0 Mascarilla desechable 
+          h3.mb-0 Mascarilla desechable 
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img15.svg', alt='')
-          p.mb-0 Guantes de plástico
+          h3.mb-0 Guantes de plástico
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img16.svg', alt='')
-          p.mb-0 Botas plásticas
+          h3.mb-0 Botas plásticas
       .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg04.br01.p-4.w-100
+        .bg06.br01.p-4.w-100
           figure.mb-3
             img.w-25(src='@/assets/curso/tema3/img17.svg', alt='')
-          p.mb-0 Delantal plástico
+          h3.mb-0 Delantal plástico
 </template>
 
 <script>
