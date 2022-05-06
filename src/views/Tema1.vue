@@ -11,7 +11,7 @@
         img.imgposition(src='@/assets/curso/tema1/img01.png', alt='Texto que describa la imagen')
       .col-lg-8
         p.mt-4 El tratamiento de aguas, es una alternativa a la escasez no solo del recurso como tal, sino de la conservación de todos los recursos naturales. Por ello, se deben realizar procesos y/o tratamientos de agua que garanticen el acceso a este líquido valioso, evitando la contaminación de ríos, mares y diferentes ecosistemas, a través de tratamientos de aguas con operaciones físico, químicas o biológicas, que tengan como objetivo minimizar su contaminación y tener acceso al recurso con características adecuadas para ser usada y consumida. 
-        <br>
+      
     .row.lag
       .col-lg-3
       .col-lg-9.bg1
@@ -23,30 +23,30 @@
     separador
   
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-up")
-      h2 1.1. Tipos y técnicas de potabilización de agua
+      h2 1.1 Tipos y técnicas de potabilización de agua
     p Las técnicas de potabilización del agua permiten eliminar los microorganismos que se encuentran contenidos en el agua sin un tratamiento previo y, que pueden ser dañinos para la salud de la población como ya se mencionó con anterioridad. Veamos cuales son, de acuerdo a (EMDUPAR, 2011)
-    p Existen diferentes tipos de redes de saneamiento las cuales se dividen en las siguientes categorías:
+    p.mb-4 Existen diferentes tipos de redes de saneamiento las cuales se dividen en las siguientes categorías:
 
     .row.mb-5
       .col-lg-12(data-aos="fade-right")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row(titulo="Pretratamiento")
-            .col-lg-6.p-4
+            .col-lg-6.p-4.ps-5
               p El cual está encargado de la retención y remoción de cualquier material sólido por medio de rejillas, desarenadores o barrido superficial que puedan llegar a contener las aguas residuales.
             .col-lg-5.col-md-6.col-6.p-0(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img02.png')
           .row(titulo="Redes separativas")
-            .col-6.p-4
+            .col-6.p-4.ps-5
               p Son aquellas que cuentan con dos conductos separados independientemente, una para aguas residuales de uso doméstico y otra para aguas industriales y aguas lluvias.
             .col-lg-5.col-md-6.col-6.p-0(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img03.png')
           .row(titulo="Redes pseudo - separativas")
-            .col-6.p-4
+            .col-6.p-4.ps-5
               p Son las intermedias entre las unitarias y separativas y tienen canalizaciones separadas para aislar las aguas lluvias y residuales en la calle, pero no en los domicilios y empresas
             .col-lg-5.col-md-6.col-6.p-0(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img04.svg')
           .row(titulo="Redes doblemente separativas")
-            .col-6.p-4
+            .col-6.p-4.ps-5 
               p Las cuales consta de dos canalizaciones que son independientes, una para la red de alcantarillado sanitario y otra para las aguas residuales domésticas, transportándose a un receptor que puede ser un río, una laguna o el mar.
             .col-lg-5.col-md-6.col-6.p-0(data-aos="fade-right")
               img(src='@/assets/curso/tema1/img05.png')
@@ -85,47 +85,47 @@
   
     p.m-0.mt-5.pt-5 Tomando en cuenta lo anterior, la obtención de agua totalmente potable que cumpla con la máxima garantía de salubridad requiere la implementación del siguiente proceso, donde:
 
-    .row.mb-5
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
-          .row.justify-content-center.mb-3
-            .col-7
+    .row.justify-content-center.mb-5
+      .col-md-4.col-6.mb-5.mb-lg-0.p-3
+        .tarjeta--boton.color-secundario.text-white--hover.p-5
+          .row.mb-3
+            .col-4
               figure
                 img(src='@/assets/curso/tema1/img10.svg', alt='Texto que describa la imagen')
           
           p.m-0.text-small <strong>Primero,</strong> se debe realizar una coagulación o floculación, en donde se agrega un químico que logra neutralizar las cargas negativas del agua y logra unir las partículas para obtener unas más grandes y facilitar su eliminación.
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
-          .row.justify-content-center.mb-3
-            .col-7
+      .col-md-4.col-6.mb-5.mb-lg-0.p-3
+        .tarjeta--boton.color-secundario.text-white--hover.p-5
+          .row.mb-3
+            .col-4
               figure
                 img(src='@/assets/curso/tema1/img11.svg', alt='Texto que describa la imagen')
 
           p.m-0.text-small <strong>En segundo lugar,</strong> está la filtración, encargada de separar y eliminar las partículas sólidas, componentes como el hierro, magnesio, e incluso características de color, sabor y olor, este tipo de filtración puede darse por arena, filtración rápida, filtración por membranas, entre otras. 
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
-          .row.justify-content-center.mb-3
-            .col-7
+      .col-md-4.col-6.mb-5.mb-lg-0.p-3
+        .tarjeta--boton.color-secundario.text-white--hover.p-5
+          .row.mb-3
+            .col-4
               figure
                 img(src='@/assets/curso/tema1/img12.svg', alt='Texto que describa la imagen')
 
           p.m-0.text-small <strong>En tercer lugar,</strong> está la sedimentación, encargada de eliminar los sólidos suspendidos y disminuir la velocidad del agua, con el fin de que se depositen por gravedad; consiguiente están los procesos biológicos, que pueden ser por lodos activados, filtros percoladores y biorreactores de membrana, en estos procesos se usan bacterias para degradar la materia orgánica del agua. 
       
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
-          .row.justify-content-center.mb-3
-            .col-7
+      .col-md-4.col-6.mb-5.mb-lg-0.p-3
+        .tarjeta--boton.color-secundario.text-white--hover.p-5
+          .row.mb-3
+            .col-4
               figure
                 img(src='@/assets/curso/tema1/img13.svg', alt='Texto que describa la imagen')
 
           p.m-0.text-small <strong>Por otro lado,</strong> tenemos la desinfección, proceso encargado de inactivar los microorganismos como hongos, bacterias o virus presentes en el agua, realizando desinfecciones químicas con cloro, dióxido de cloro u ozono, desinfección de luz ultravioleta o desinfección térmica. 
 
-      .col-sm-6.col-lg-3.mb-4.mb-lg-0
-        .tarjeta--boton.color-secundario.text-white--hover.p-4
-          .row.justify-content-center.mb-3
-            .col-7
+      .col-md-4.col-6.mb-5.mb-lg-0.p-3  
+        .tarjeta--boton.color-secundario.text-white--hover.p-5
+          .row.mb-3
+            .col-4
               figure
                 img(src='@/assets/curso/tema1/img14.svg', alt='Texto que describa la imagen')
 

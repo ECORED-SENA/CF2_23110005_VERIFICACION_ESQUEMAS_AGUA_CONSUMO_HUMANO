@@ -51,7 +51,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
       h2 2.1. Puesta en marcha del sistema 
     .row.justify-content-center
-      .col-lg-11(data-aos="fade-right")
+      .col-lg-10(data-aos="fade-right")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img02.png')})`}"
