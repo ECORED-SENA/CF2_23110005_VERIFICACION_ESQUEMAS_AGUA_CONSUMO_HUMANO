@@ -141,7 +141,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Acuatecnica Líderes en Ingeniería Ambiental y Sanitaria. (2018). ¿Cuál es la normatividad vigente sobre aguas residuales en Colombia? ',
+        'Aqualia. (2017). Depuración y reutilización de aguas residuales. ¿Qué es una EDAR y cómo funciona?',
       link:
         'http://acuatecnica.com/cual-es-la-normatividad-vigente-sobre-aguas-residuales-en-colombia/ ',
     },
@@ -263,22 +263,22 @@ export default {
   complementario: [
     {
       texto:
-        '2.1 Normatividad vigente para el sector de agua potable y residual.Gobierno de Colombia. (s.f.). Decreto 1575 de 2007. Decreto-1575-de-2007-Gestor-Normativo (funcionpublica.gov.co)',
-      tipo: 'Decreto',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=30007',
-    },
-    {
-      texto:
-        '2.3. Redes y sistemas de alcantarillado EMCASERVICIOS. (2020). ¿Cómo funciona un sistema de alcantarillado? [Video]. YouTube.',
+        'Aqualia. (2017). Depuración y reutilización de aguas residuales. ¿Qué es una EDAR y cómo funciona? ',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=vnXBwQXY-Qw',
+      link: 'https://www.youtube.com/watch?v=Hi2ilunFSWc',
     },
     {
       texto:
-        '3.1 Conceptos, tipos y características de tuberías basados en manuales técnicos Manual de Tubería de cobre. (s.f.). Manual_tuberias.pdf',
-      tipo: 'Documento',
-      link: 'https://www.academia.edu/17622063/Manual_tuberias',
+        'Orenco Systems Incorporated. (s.f.). Puesta en marcha y mantenimiento de sistemas comerciales de tratamiento de aguas residuales AdvanTex.',
+      tipo: 'Manual',
+      link:
+        'https://odl.orenco.com/documents/aim-om-atx-3-span.pdf#:~:text=Las%20aguas%20residuales%20se%20percuelan%20a%20trav%C3%A9s%20y,los%20microbios%20conviertan%20el%20amon%C3%ADaco%20en%20nitrato%20%28nitrificaci%C3%B3n%29',
+    },
+    {
+      texto:
+        'SENA. (2021). Sistemas de gestión de la seguridad y salud en el trabajo. Sistemas de gestión de la seguridad y salud en el trabajo',
+      tipo: 'Video',
+      link: 'https://youtu.be/5CF3HZdu6Bc',
     },
   ],
   creditos: {
@@ -310,13 +310,13 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Yuly Rey',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sandra Miena Triana Pinto',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
