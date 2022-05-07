@@ -154,7 +154,7 @@
               span.c--4
                 i.fas.fa-caret-up.fa-2x.color-primario.me-3
                 i.fas.fa-caret-down.fa-2x.color-primario.me-3
-              h4.mb-0 Procesos Físicos
+              h6.mb-0 Procesos Físicos
             p Son aquellos que suceden en la planta de depuración de agua residual y se implementan fenómenos físicos como fuerza centrífuga, fuerza de retención, fuerza gravitatoria y fuerza de cohesión.
 
       .col-lg-4.mb-3

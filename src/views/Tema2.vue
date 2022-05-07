@@ -9,41 +9,41 @@
     .row.justify-content-center(data-aos="zoom-out-left")
        p(data-aos="zoom-out-left") Las plantas encargadas del tratamiento de las aguas residuales permiten contener el agua contaminada, con el fin de llevarlas a un proceso que haga posible su reutilización en varios campos, algunos de estos elementos dentro del proceso de operación son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 Sistema de rejas
         p El cual es el medio por el que el cual el agua residual ingresa con algunos elementos pesados como arena, piedras, grasa, sólidos, entre otros, con este sistema se instalan una serie de rejillas dentro del canal de tal forma que estos obstáculos más grandes queden atrapados en la primera etapa. 
 
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 Los desarenadores y desengrasadores
         p Los cuales son tanques de flujo continuo que separa la arena del líquido sin separar los sólidos orgánicos, usualmente este proceso puede ser usado también como desengrasador de manera moderada para lograr una mayor purificación del agua.
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El decantador
         p Es otro elemento de este proceso y se encarga de separar diferentes componentes líquidos por densidad. Este proceso se realiza a través de la fuerza de gravedad haciendo que estos líquidos más densos vayan al fondo del decantador.
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100 
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El reactor biológico
         p Usado para la asimilación de la materia orgánica y los nutrientes disueltos en el agua residual.
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El tanque para el tratamiento físico químico
         p Que permite alterar el estado físico de componentes en el agua como el aluminio, hidróxido o hierro y, que logran eliminar el 80 y 90% de dicha materia suspendida.
-      .tarjeta.color-acento-botones.p-4
+      .tarjeta.p-4.tranform.h-100
         .row.mb-3
           .col-8
-            img(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
+            img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El sistema de deshidratación de lodos y secado de lodos
         p Permitiendo reducir el peso de este componente por medio de radiación solar o calentamiento con elementos infrarrojos. 
 
@@ -123,9 +123,10 @@
     .row(data-aos="zoom-in-left")
       .col-lg-4
         img.imgposition(src='@/assets/curso/tema2/img13.png', alt='Texto que describa la imagen')
-      .col-lg-8.bg1
+    
+      .col-lg-9.bg1
         p.mt-3 En Colombia, el Ministerio de la Protección Social, por medio del Decreto 1575 del 2007, determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratada correctamente. Sin embargo, en términos de saneamiento en Colombia, menos de la mitad de las aguas residuales pasan por un tratamiento, ubicándonos por debajo de países como Perú, Chile y México.     
-      .col-8-lg-md
+    .row.-lg-8
         p.mt-4 Por lo anterior, la norma mencionada busca que los municipios, las personas prestadoras del servicio público, usuarios, las Entidades Territoriales de Salud, los sectores productivos y las autoridades ambientales, se articulen con el propósito de realizar acciones que aporten al manejo integral de residuos sólidos y líquidos que pueden ser vertidos en las fuentes hídricas naturales que abastecen los sistemas de suministro de agua para consumo potable y así, minimizar los riesgos que esto pueda conllevar en la salud pública.  
     
     p.m-0 Actualmente, existen variedad de protocolos para monitorear los procedimientos que se llevan a cabo en la potabilización del agua, entre estos están:
@@ -134,7 +135,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
           .tarjeta.color-primario
-            .text-white.p-4
+            .p-4
               h2.text-center El Protocolo Nacional de Monitoreo de la Calidad en Cuerpos Naturales de Agua Superficial.
               p Debe ser tomado en cuenta y, además, obligatorio por parte de todas las entidades públicas y privadas de cualquier territorio nacional que realicen cualquier actividad relacionada con el recurso hídrico. 
 
