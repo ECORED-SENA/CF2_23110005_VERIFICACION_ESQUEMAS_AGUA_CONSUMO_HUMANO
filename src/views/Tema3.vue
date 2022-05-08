@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 3
       h1 Funcionamiento del sistema operativo, seguridad y salud en el trabajo
-    .row.justify-content-center.align-items-center      
+    .row.justify-content-center.align-items-center(data-aos="fade-left")      
       .col-12.col-lg-5.position-relative
           div.p-5.bgr
             p.text-regular El Ministerio de Trabajo, por medio de la Dirección de Riesgos Laborales, publicó el Decreto 1443 de 2014 ahora Decreto único del sector Trabajo 1072 de 2015, estableció en su Libro 2, Parte 2, Título 4, Capítulo 6, las disposiciones para la implementación del Sistema de Gestión de la Seguridad y Salud en el Trabajo” (Mintrabajo, s.f.).   
@@ -19,17 +19,17 @@
     
     p.mt-4 De igual manera, una planificación, evaluación y adopción de medidas en pro de mejoras, tal como se muestra a continuación:
       
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 3
       span ¿Cómo gestionar la seguridad y salud en el trabajo?
     .row.mb-3.justify-content-center
       .col-lg-11.mb-5
-        img(src='@/assets/curso/tema3/img01.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema3/img01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
       figcaption <strong>Nota.</strong> Organización Internacional del Trabajo. Recuperado de ¿Cómo gestionar la seguridad y salud en el trabajo? (Administración e inspección del trabajo) (ilo.org)
 
 
     separador
-    #t_3_1.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_1.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
       h2 3.1 Concepto de seguridad y salud en el trabajo
     .row.justify-content-center
         .col-lg-2
@@ -43,15 +43,14 @@
               img(src='@/assets/curso/tema3/img03.png', alt='Texto que describa la imagen')      
     .row.justify-content-center
         .col-lg-4
-          img(src='@/assets/curso/tema3/img04.png', alt='Texto que describa la imagen')
+          img.imgposition(src='@/assets/curso/tema3/img04.png', alt='Texto que describa la imagen')
         .col-lg-8
           p.mb-5 Ahora bien, para dar cumplimiento a lo mencionado, el Ministerio de Trabajo está comprometido con las políticas de protección de los trabajadores en Colombia y va en coherencia con las <strong>normas establecidas por el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST)</strong>, este concepto se basa en el desarrollo de un proceso lógico y por etapas, que busca la eficiencia y la mejora continua de sus procesos, lo cual incluye una <strong>política, organización, planificación, aplicación, evaluación, auditoría y acciones de mejora con el propósito de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en los espacios laborales (Mintrabajo, 2022)</strong>. 
-          .row.mb-5
-            .col-lg-12.bg1
-              p El objetivo general del <strong>sistema de seguridad y salud en el trabajo es asegurar el cumplimiento de las normas mínimas establecidas para dar cumplimiento a la protección de la integridad del trabajador</strong>teniendo en cuenta las situaciones peligrosas y las acciones preventivas en las que este pueda incurrir, asimismo, este sistema tiene como ventajas, la mejora del medio ambiente laboral, el bienestar y la calidad de vida en un entorno de trabajo, la reducción de tasas de ausentismo por enfermedad o incapacidad, la disminución de tasas de accidentalidad o mortalidad por accidentes de trabajo y el debido cumplimiento y control. 
-
+           .bg1
+            p.mt-3.py-3.pe-3.mar-left.ps-3.ps-lg-0 El objetivo general del <strong>sistema de seguridad y salud en el trabajo es asegurar el cumplimiento de las normas mínimas establecidas para dar cumplimiento a la protección de la integridad del trabajador</strong>teniendo en cuenta las situaciones peligrosas y las acciones preventivas en las que este pueda incurrir, asimismo, este sistema tiene como ventajas, la mejora del medio ambiente laboral, el bienestar y la calidad de vida en un entorno de trabajo, la reducción de tasas de ausentismo por enfermedad o incapacidad, la disminución de tasas de accidentalidad o mortalidad por accidentes de trabajo y el debido cumplimiento y control. 
+            
     separador
-    #t_3_2.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
       h2 3.2. Tipos de riesgo, contingencias
 
     p Dentro de la seguridad y salud en el trabajo, como ya se expuso con anterioridad, pueden existir diversos factores de riesgo que incrementan la posibilidad de mayor número de accidentes o afecciones para la salud de los empleados. Según el concepto de salud de la Organización Mundial de la Salud (OMS), “estos riesgos se pueden definir como aquellas situaciones de trabajo capaces de romper con el equilibrio físico, mental y social de las personas” (Asiprex, 2021).
@@ -99,11 +98,11 @@
     p.m-0 Además, es importante establecer prestaciones de atención para la salud de los trabajadores y también las respectivas prestaciones económicas por la incapacidad temporal a que haya lugar frente a las contingencias de accidentes de trabajo y/o enfermedades laborales; al trabajador debe dársele la garantía de que sus derechos y sus necesidades como trabajador serán tenidas en cuenta y cumplidas por parte de la organización. Ligado a esto, se debe también hacer un reconocimiento para estas incapacidades permanentes, parciales o por invalidez, el empleador que no cumpla con la afiliación de sus trabajadores al Sistema General de Riesgos Laborales, además de las sanciones legales, será responsable de las prestaciones que se otorgan en el Decreto Ley 1295.
 
     separador
-    #t_3_3.titulo-segundo.color-acento-contenido.mt-4
+    #t_3_3.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
       h2 3.3. Elementos de protección personal 
     p.m-0.mb-5 Los Elementos de Protección Personal (EPP) son todos aquellos equipos que están destinados a proteger de varios riesgos que puedan poner en riesgo su salud o seguridad en el trabajo; además, de esto un elemento de protección personal importante es la capacitación continua del uso de los mismos, de las medidas preventivas al momento de realizar las labores correspondientes a cada operador de la planta. Dentro de los EPP utilizados se pueden mencionar:
 
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-12.col-md-3.mb-5
         .bg06.alingxy.p-4.tranform
           figure.img90
@@ -124,26 +123,26 @@
           figure.img90
             img(src='@/assets/curso/tema3/img13.svg', alt='')
           h3.mb-0 Careta de seguridad
-    .row.mb-5.justify-content-center
-      .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg06.br01.p-4.w-100
-          figure.mb-3
-            img.w-25(src='@/assets/curso/tema3/img14.svg', alt='')
+    .row.mb-0.justify-content-center
+      .col-12.col-md-3.mb-5
+        .bg06.alingxy.p-4.tranform
+          figure.img90
+            img(src='@/assets/curso/tema3/img14.svg', alt='')
           h3.mb-0 Mascarilla desechable 
-      .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg06.br01.p-4.w-100
-          figure.mb-3
-            img.w-25(src='@/assets/curso/tema3/img15.svg', alt='')
+      .col-12.col-md-3.mb-5
+        .bg06.alingxy.p-4.tranform
+          figure.img90
+            img(src='@/assets/curso/tema3/img15.svg', alt='')
           h3.mb-0 Guantes de plástico
-      .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg06.br01.p-4.w-100
-          figure.mb-3
-            img.w-25(src='@/assets/curso/tema3/img16.svg', alt='')
+      .col-12.col-md-3.mb-5
+        .bg06.alingxy.p-4.tranform
+          figure.img90
+            img(src='@/assets/curso/tema3/img16.svg', alt='')
           h3.mb-0 Botas plásticas
-      .col-md-3.mb-4.mb-lg-0.d-flex
-        .bg06.br01.p-4.w-100
-          figure.mb-3
-            img.w-25(src='@/assets/curso/tema3/img17.svg', alt='')
+      .col-12.col-md-3.mb-5
+        .bg06.alingxy.p-4.tranform
+          figure.img90
+            img(src='@/assets/curso/tema3/img17.svg', alt='')
           h3.mb-0 Delantal plástico
     
 </template>

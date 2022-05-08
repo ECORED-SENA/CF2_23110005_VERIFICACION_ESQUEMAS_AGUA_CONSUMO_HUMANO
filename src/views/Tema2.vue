@@ -48,7 +48,7 @@
         p Permitiendo reducir el peso de este componente por medio de radiación solar o calentamiento con elementos infrarrojos. 
 
     Separador   
-    #t_2_1.titulo-segundo.color-acento-contenido.mb-5
+    #t_2_1.titulo-segundo.color-acento-contenido.mb-5(data-aos="zoom-out-left")
       h2 2.1 Puesta en marcha del sistema 
   
     .row.justify-content-center
@@ -117,17 +117,18 @@
           .col-md-1
       
     Separador
-    #t_2_2.titulo-segundo.color-acento-contenido.mt-4
+    #t_2_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
       h2 2.2 Operación del sistema de potabilización según normatividad 
 
-    .row
-      .col-lg-4
+    .row.justify-content-center.mb-5
+      .col-lg-4(data-aos="fade-right")
         img.imgposition(src='@/assets/curso/tema2/img13.png', alt='Texto que describa la imagen')
-    
-      .col-lg-8
-        p.bg1.mt-3 En Colombia, el Ministerio de la Protección Social, por medio del Decreto 1575 del 2007, determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratada correctamente. Sin embargo, en términos de saneamiento en Colombia, menos de la mitad de las aguas residuales pasan por un tratamiento, ubicándonos por debajo de países como Perú, Chile y México.     
-        p.mt-4 Por lo anterior, la norma mencionada busca que los municipios, las personas prestadoras del servicio público, usuarios, las Entidades Territoriales de Salud, los sectores productivos y las autoridades ambientales, se articulen con el propósito de realizar acciones que aporten al manejo integral de residuos sólidos y líquidos que pueden ser vertidos en las fuentes hídricas naturales que abastecen los sistemas de suministro de agua para consumo potable y así, minimizar los riesgos que esto pueda conllevar en la salud pública.  
-    
+      .col-lg-8.mar-top(data-aos="fade-left")
+        
+        .bg1
+          p.mt-3.py-3.pe-3.mar-left.ps-3.ps-lg-0 En Colombia, el Ministerio de la Protección Social, por medio del Decreto 1575 del 2007, determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratada correctamente. Sin embargo, en términos de saneamiento en Colombia, menos de la mitad de las aguas residuales pasan por un tratamiento, ubicándonos por debajo de países como Perú, Chile y México.
+        p.mt-4 Por lo anterior, la norma mencionada busca que los municipios, las personas prestadoras del servicio público, usuarios, las Entidades Territoriales de Salud, los sectores productivos y las autoridades ambientales, se articulen con el propósito de realizar acciones que aporten al manejo integral de residuos sólidos y líquidos que pueden ser vertidos en las fuentes hídricas naturales que abastecen los sistemas de suministro de agua para consumo potable y así, minimizar los riesgos que esto pueda conllevar en la salud pública. 
+
     p.m-0 Actualmente, existen variedad de protocolos para monitorear los procedimientos que se llevan a cabo en la potabilización del agua, entre estos están:
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
@@ -159,7 +160,7 @@
 
       .titulo-sexto.color-acento-botones
         h5 Normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable
-      .tabla-a.color-acento-contenido.mb-5 
+      .tabla-a.color-acento-contenido.mb-5(data-aos="fade-right")
         table
           caption <strong>Nota</strong>.  Normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable. Recuperado de 2016nicolaspaque.pdf (usta.edu.co)
           thead
@@ -188,16 +189,14 @@
               td Ley No. 0632 del 29 de diciembre del 2000
               td Modifica parcialmente la Ley 0142 de 1994.
               td Define los subsidios y contribuciones para los servicios de acueducto, alcantarillado y aseo, ajustándose al porcentaje necesario, que asegure un monto para que los subsidios se apliquen y se mantengan en equilibrio; destinando dichos recursos para los usuarios atendidos por la entidad.
-
-      .row.justify-content-center
-        .col-lg-4
+      .row.justify-content-center.mb-5
+        .col-lg-4(data-aos="fade-right")
           img.imgposition(src='@/assets/curso/tema2/img14.png', alt='Texto que describa la imagen')
-        .col-lg-8
-          p.mt-4 <strong>Las entidades que pueden estar mayormente involucradas en este proceso son</strong>: los gobiernos o agencias públicas sean estas nacionales, locales, regionales o internacionales, las asociaciones de las mismas entidades prestadoras de servicios como asociaciones de agua potable o agua residual, organismos autónomos que desempeñan funciones de supervisión y finalmente, los usuarios que hacen uso de este recurso hídrico. El propósito de estas entidades es proporcionar a los usuarios un abastecimiento continuo de agua potable, de recolección y tratamiento de agua residual bajo condiciones económicas y sociales que sean óptimas tanto para los usuarios como para las entidades prestadoras del servicio.
-      .row.lag
-        .col-lg-3
-        .col-lg-9.bg1
-          p.mt-3.maq Para concluir con este apartado, la protección de la salud pública a través de una buena gestión de las entidades prestadoras de servicios de agua potable y residual, deben ser esenciales para el cuidado del recurso hídrico, pues, dichas instituciones deben aplicar buenas prácticas que contribuyan al desarrollo sostenible, la cohesión social y al desarrollo económico de las comunidades ya que, la calidad y la eficiencia de los servicios de agua potable tienen implicaciones en todas las actividades de la sociedad.
+        .col-lg-8.mar-top(data-aos="fade-left")
+          p.mt-4 <strong>Las entidades que pueden estar mayormente involucradas en este proceso son</strong>: los gobiernos o agencias públicas sean estas nacionales, locales, regionales o internacionales, las asociaciones de las mismas entidades prestadoras de servicios como asociaciones de agua potable o agua residual, organismos autónomos que desempeñan funciones de supervisión y finalmente, los usuarios que hacen uso de este recurso hídrico. El propósito de estas entidades es proporcionar a los usuarios un abastecimiento continuo de agua potable, de recolección y tratamiento de agua residual bajo condiciones económicas y sociales que sean óptimas tanto para los usuarios como para las entidades prestadoras del servicio. 
+          .bg1
+            p.mt-3.py-3.pe-3.mar-left.ps-3.ps-lg-0 Para concluir con este apartado, la protección de la salud pública a través de una buena gestión de las entidades prestadoras de servicios de agua potable y residual, deben ser esenciales para el cuidado del recurso hídrico, pues, dichas instituciones deben aplicar buenas prácticas que contribuyan al desarrollo sostenible, la cohesión social y al desarrollo económico de las comunidades ya que, la calidad y la eficiencia de los servicios de agua potable tienen implicaciones en todas las actividades de la sociedad.
+      
 </template>
 
 <script>
