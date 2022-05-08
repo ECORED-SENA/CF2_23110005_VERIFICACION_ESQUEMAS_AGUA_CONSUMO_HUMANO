@@ -6,8 +6,8 @@
       .titulo-principal__numero
         span 2
       h1 Identificación de elementos que hacen parte de la operación
-    .row.justify-content-center(data-aos="zoom-out-left")
-       p(data-aos="zoom-out-left") Las plantas encargadas del tratamiento de las aguas residuales permiten contener el agua contaminada, con el fin de llevarlas a un proceso que haga posible su reutilización en varios campos, algunos de estos elementos dentro del proceso de operación son:
+    .row.justify-content-center
+       p Las plantas encargadas del tratamiento de las aguas residuales permiten contener el agua contaminada, con el fin de llevarlas a un proceso que haga posible su reutilización en varios campos, algunos de estos elementos dentro del proceso de operación son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.p-4.tranform.h-100
         .row.mb-3
@@ -48,21 +48,21 @@
         p Permitiendo reducir el peso de este componente por medio de radiación solar o calentamiento con elementos infrarrojos. 
 
     Separador   
-    #t_2_1.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
-      h2 2.1. Puesta en marcha del sistema 
+    #t_2_1.titulo-segundo.color-acento-contenido.mb-5
+      h2 2.1 Puesta en marcha del sistema 
   
     .row.justify-content-center
-      .col-lg-10(data-aos="fade-right")
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img02.png')})`}"
-            )
-          .bloque-texto-g__texto.p-4
+      .col-lg-10.mt-5
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.position-relative
+          .bloque-texto-g__img.posit(
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/img18.png')})`}")
+            img.posit_1(src='@/assets/curso/tema2/img19.png' alt='AvatarTop')
+          .bloque-texto-g__texto.p-5.posit_2
             p.mb-0 Para establecer un sistema que ponga en marcha todo el proceso de tratamiento de aguas residuales para el consumo potable, es necesario establecer un sistema de captaciones, líneas de conducción, planta de tratamiento, reservorio, redes de distribución y conexiones domiciliarias y/o públicas.
     
     p.m-0.mb-5 Siendo así, a continuación, podrán observar el proceso de tratamiento de aguas residuales para el consumo potable:
     
-    TabsB.color-acento-contenido.mb-5(data-aos="zoom-out-left")
+    TabsB.color-acento-contenido.mb-5
       .py-4.py-md-5(titulo="Captaciones" :icono="require('@/assets/curso/tema2/img03.svg')")
         .row
           .col-md-1
@@ -117,16 +117,15 @@
           .col-md-1
       
     Separador
-    #t_2_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-in-left")
-      h2 2.2. Operación del sistema de potabilización según normatividad 
+    #t_2_2.titulo-segundo.color-acento-contenido.mt-4
+      h2 2.2 Operación del sistema de potabilización según normatividad 
 
-    .row(data-aos="zoom-in-left")
+    .row
       .col-lg-4
         img.imgposition(src='@/assets/curso/tema2/img13.png', alt='Texto que describa la imagen')
     
-      .col-lg-9.bg1
-        p.mt-3 En Colombia, el Ministerio de la Protección Social, por medio del Decreto 1575 del 2007, determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratada correctamente. Sin embargo, en términos de saneamiento en Colombia, menos de la mitad de las aguas residuales pasan por un tratamiento, ubicándonos por debajo de países como Perú, Chile y México.     
-    .row.-lg-8
+      .col-lg-8
+        p.bg1.mt-3 En Colombia, el Ministerio de la Protección Social, por medio del Decreto 1575 del 2007, determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratada correctamente. Sin embargo, en términos de saneamiento en Colombia, menos de la mitad de las aguas residuales pasan por un tratamiento, ubicándonos por debajo de países como Perú, Chile y México.     
         p.mt-4 Por lo anterior, la norma mencionada busca que los municipios, las personas prestadoras del servicio público, usuarios, las Entidades Territoriales de Salud, los sectores productivos y las autoridades ambientales, se articulen con el propósito de realizar acciones que aporten al manejo integral de residuos sólidos y líquidos que pueden ser vertidos en las fuentes hídricas naturales que abastecen los sistemas de suministro de agua para consumo potable y así, minimizar los riesgos que esto pueda conllevar en la salud pública.  
     
     p.m-0 Actualmente, existen variedad de protocolos para monitorear los procedimientos que se llevan a cabo en la potabilización del agua, entre estos están:
@@ -190,7 +189,7 @@
               td Modifica parcialmente la Ley 0142 de 1994.
               td Define los subsidios y contribuciones para los servicios de acueducto, alcantarillado y aseo, ajustándose al porcentaje necesario, que asegure un monto para que los subsidios se apliquen y se mantengan en equilibrio; destinando dichos recursos para los usuarios atendidos por la entidad.
 
-      .row.justify-content-center(data-aos="zoom-in-left")
+      .row.justify-content-center
         .col-lg-4
           img.imgposition(src='@/assets/curso/tema2/img14.png', alt='Texto que describa la imagen')
         .col-lg-8

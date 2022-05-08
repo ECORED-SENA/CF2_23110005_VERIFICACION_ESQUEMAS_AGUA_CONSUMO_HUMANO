@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="21" height="18" viewBox="0 0 21 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="21" height="18" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cuadrícula_de_repetición_1" data-name="Cuadrícula de repetición 1" clip-path="url(#clip-path)">
+    <g transform="translate(-968 -5570)">
+      <path id="Polígono_7" data-name="Polígono 7" d="M10.5,0,21,18H0Z" transform="translate(968 5570)" fill="#12263f"/>
+    </g>
+  </g>
+</svg>
