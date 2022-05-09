@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CF2_23110005_VERIFICACION_ESQUEMAS_AGUA_CONSUMO_HUMANO/](https://ecored-sena.github.io/CF2_23110005_VERIFICACION_ESQUEMAS_AGUA_CONSUMO_HUMANO/)
 
 #
 
