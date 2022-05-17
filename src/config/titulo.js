@@ -1,2 +1,2 @@
 module.exports =
-  'Caracterización de sistemas alternos para tratamientos de agua según la normativa'
+  'Operación de sistemas alternos acorde a los requerimientos de tratamiento'
