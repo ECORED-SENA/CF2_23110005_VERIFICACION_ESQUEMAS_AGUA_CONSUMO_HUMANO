@@ -4,7 +4,7 @@ export default {
       'Operación de sistemas alternos acorde a los requerimientos de tratamiento',
     descripcionCurso:
       'Con el fin de determinar la capacidad y condiciones de aprovechamiento del recurso hídrico, se debe analizar y apropiarse de los procedimientos y técnicas existentes para la potabilización y depuración del recurso y, entender, que todos los que hacen uso de este sin algún tipo de tratamiento o, sin unas técnicas adecuadas, estarán aportando a la contaminación del agua.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
@@ -102,7 +102,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {

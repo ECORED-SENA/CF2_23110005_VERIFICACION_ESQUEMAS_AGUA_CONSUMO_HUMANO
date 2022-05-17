@@ -12,7 +12,7 @@
         .titulo-segundo
           h2 Recursos para procedimientos operativos en tratamiento de aguas.
         p.mb-4 Identificar los recursos para la realización de procedimientos en tratamiento de agua.
-        .tarjeta.actividad.p-3
+        .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
               p.fw-bold.mb-0 Verdadero o falso 
@@ -21,6 +21,9 @@
                 span Realizar
                 i.fas.fa-puzzle-piece
 
+       
+      
+        
 
 </template>
 

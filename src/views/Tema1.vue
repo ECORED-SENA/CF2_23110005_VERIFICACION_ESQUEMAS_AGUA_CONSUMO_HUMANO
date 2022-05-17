@@ -24,25 +24,25 @@
     p Las técnicas de potabilización del agua permiten eliminar los microorganismos que se encuentran contenidos en el agua sin un tratamiento previo y, que pueden ser dañinos para la salud de la población como ya se mencionó con anterioridad. Veamos cuales son, de acuerdo a (EMDUPAR, 2011)
     p.mb-4 Existen diferentes tipos de redes de saneamiento las cuales se dividen en las siguientes categorías:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right").justify-content-center
       .row(titulo="Pretratamiento")
-        .col-lg-6.p-4.ps-5
-          p El cual está encargado de la retención y remoción de cualquier material sólido por medio de rejillas, desarenadores o barrido superficial que puedan llegar a contener las aguas residuales.
+        .col-md-6.align-items-center
+          p.p-5 El cual está encargado de la retención y remoción de cualquier material sólido por medio de rejillas, desarenadores o barrido superficial que puedan llegar a contener las aguas residuales.
         .col-lg-5.col-md-6.col-12.p-0
           img(src='@/assets/curso/tema1/img02.png')
       .row(titulo="Redes separativas")
-        .col-12.col-lg-6.p-4.ps-5
-          p Son aquellas que cuentan con dos conductos separados independientemente, una para aguas residuales de uso doméstico y otra para aguas industriales y aguas lluvias.
+        .col-md-6.align-items-center
+          p.p-5 Son aquellas que cuentan con dos conductos separados independientemente, una para aguas residuales de uso doméstico y otra para aguas industriales y aguas lluvias.
         .col-lg-5.col-md-6.col-12.p-0
           img(src='@/assets/curso/tema1/img03.png')
       .row(titulo="Redes pseudo - separativas")
-        .col-lg-6.p-4.ps-5
-          p Son las intermedias entre las unitarias y separativas y tienen canalizaciones separadas para aislar las aguas lluvias y residuales en la calle, pero no en los domicilios y empresas
+        .col-md-6.align-items-center
+          p.p-5 Son las intermedias entre las unitarias y separativas y tienen canalizaciones separadas para aislar las aguas lluvias y residuales en la calle, pero no en los domicilios y empresas
         .col-lg-5.col-md-6.col-12.p-0
           img(src='@/assets/curso/tema1/img04.svg')
       .row(titulo="Redes doblemente separativas")
-        .col-lg-6.p-4.ps-5 
-          p Las cuales consta de dos canalizaciones que son independientes, una para la red de alcantarillado sanitario y otra para las aguas residuales domésticas, transportándose a un receptor que puede ser un río, una laguna o el mar.
+        .col-md-6.align-items-center
+          p.p-5 Las cuales consta de dos canalizaciones que son independientes, una para la red de alcantarillado sanitario y otra para las aguas residuales domésticas, transportándose a un receptor que puede ser un río, una laguna o el mar.
         .col-lg-5.col-md-6.col-12.p-0
           img(src='@/assets/curso/tema1/img05.png')
 
@@ -52,28 +52,28 @@
     
     .row.justify-content-center.bg_grad-06(data-aos="zoom-out")
       .col-lg-8
-        LineaTiempoD.color-primario
+        LineaTiempoD.ssa
           .row(numero="1" titulo="Pretratamiento")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Está encargado de la retención y remoción de cualquier material sólido por medio de rejillas, desarenadores o barrido superficial que puedan llegar a contener las aguas residuales.
-            .col-md-7
+            .col-12.col-md-5.align-items-center
+              p.p-3 Está encargado de la retención y remoción de cualquier material sólido por medio de rejillas, desarenadores o barrido superficial que puedan llegar a contener las aguas residuales.
+            .col-12.col-md-7
               figure
                 img(src='@/assets/curso/tema1/img06.png', alt='Texto que describa la imagen')
           .row(numero="2" titulo="Tratamiento primario")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p En el cual se elimina la materia decantable orgánica e inorgánica realizada a través de la decantación
+            .col-md-5.align-items-center
+              p.p-3 En el cual se elimina la materia decantable orgánica e inorgánica realizada a través de la decantación
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img07.png', alt='Texto que describa la imagen')
           .row(numero="3" titulo="Tratamiento secundario")
-            .col-md-4.mb-4.mb-md-0.mt-2  
-              p Se da la eliminación de materia orgánica biodegradable tanto disuelta como sólida convertida en un biológico sedimentable y sólidos inorgánicos que podrían ser removidos mediante la sedimentación. 
+            .col-md-5.align-items-center
+              p.p-3 Se da la eliminación de materia orgánica biodegradable tanto disuelta como sólida convertida en un biológico sedimentable y sólidos inorgánicos que podrían ser removidos mediante la sedimentación. 
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img08.png', alt='Texto que describa la imagen')
           .row(numero="4" titulo="Tratamiento avanzado o específico")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Por medio del cual se realiza una eliminación de los componentes no eliminados en el tratamiento secundario, se obtiene agua residual sin nitrógeno, fósforo, materia en suspensión no decantada, materia orgánica no biodegradable, metales pesados o materia disuelta.
+            .col-md-5.align-items-center
+              p.p-3 Por medio del cual se realiza una eliminación de los componentes no eliminados en el tratamiento secundario, se obtiene agua residual sin nitrógeno, fósforo, materia en suspensión no decantada, materia orgánica no biodegradable, metales pesados o materia disuelta.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img09.png', alt='Texto que describa la imagen')
@@ -115,10 +115,12 @@
        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
         h5 Figura 1
         span  Proceso de potabilización del agua
-    .row.justify-content-center.bg4(data-aos="zoom-out")
-      .col-lg-6
-        img(src='@/assets/curso/tema1/img15.svg', alt='Texto que describa la imagen')(data-aos="zoom-in-right")
-      figcaption <strong>Nota.</strong> Microbiología UMH. Recuperado de animapura.gif (750x415) (educacion.es)
+    .row.mb-2.justify-content-center.bg4(data-aos="zoom-out")
+      .col-lg-6.mb-3
+        img.pt-5.pb-5(src='@/assets/curso/tema1/img15.svg', alt='Texto que describa la imagen')(data-aos="zoom-in-right")
+    .row
+      .col-lg-12
+        figcaption Nota. BBVA. Tomado de Qué es el proceso de potabilización del agua y cuáles son sus fases (bbva.com)
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-left")
@@ -175,52 +177,52 @@
 
     .row.mb-5.justify-content-center.bg_grad-07(data-aos="zoom-out")
       .col-lg-8
-        LineaTiempoD.color-primario
+        LineaTiempoD.ssaa
           .row(numero="1" titulo="Coagulantes")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Son productos químicos a base de aluminio o hierro que realizan alteraciones de la carga magnética de las partículas en el agua logrando así atraerlas para desatarlas o filtrarlas en cuerpos más grandes.
+            .col-md-5.align-items-center
+              p.p-3 Son productos químicos a base de aluminio o hierro que realizan alteraciones de la carga magnética de las partículas en el agua logrando así atraerlas para desatarlas o filtrarlas en cuerpos más grandes.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img22.png', alt='Texto que describa la imagen')
           .row(numero="2" titulo="Floculantes")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Estas son sustancias químicas que incluyen tres tipos de categorías, las naturales, químicas e injertados junto con el proceso de agitación, logran que las partículas contaminantes se transformen en grumos en suspensión en el agua, provocando su precipitación aclaración, eliminación de turbiedades y minerales no beneficiosos para el consumo humano.
+            .col-md-5.align-items-center
+              p.p-3 Estas son sustancias químicas que incluyen tres tipos de categorías, las naturales, químicas e injertados junto con el proceso de agitación, logran que las partículas contaminantes se transformen en grumos en suspensión en el agua, provocando su precipitación aclaración, eliminación de turbiedades y minerales no beneficiosos para el consumo humano.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img23.png', alt='Texto que describa la imagen')
           .row(numero="3" titulo="Antiespumantes")
-            .col-md-4.mb-4.mb-md-0.mt-2  
-              p Estos sirven para controlar y reducir el nivel del aire y espuma que quedan durante el proceso de tratamiento de aguas residuales ayudando a disminuir un desbordamiento.
+            .col-md-5.align-items-center
+              p.p-3 Estos sirven para controlar y reducir el nivel del aire y espuma que quedan durante el proceso de tratamiento de aguas residuales ayudando a disminuir un desbordamiento.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img24.png', alt='Texto que describa la imagen')
           .row(numero="4" titulo="Polímeros orgánicos")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Se utilizan para atraer partículas y hacer una filtración mucho más fácil durante el proceso.
+            .col-md-5.align-items-center
+              p.p-3 Se utilizan para atraer partículas y hacer una filtración mucho más fácil durante el proceso.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img25.png', alt='Texto que describa la imagen')
           .row(numero="5" titulo="Agentes reductores")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Son agentes antioxidantes, incluyendo el bisulfito de sodio, el hidrosulfito de sodio y el sulfato ferroso que se utilizan para eliminar sustancias como el ozono, el peróxido de hidrógeno, el cloro y contaminantes biológicos que se contengan en el agua y, que junto con la aireación puedan ser correctamente floculados y filtrados. 
+            .col-md-5.align-items-center
+              p.p-3 Son agentes antioxidantes, incluyendo el bisulfito de sodio, el hidrosulfito de sodio y el sulfato ferroso que se utilizan para eliminar sustancias como el ozono, el peróxido de hidrógeno, el cloro y contaminantes biológicos que se contengan en el agua y, que junto con la aireación puedan ser correctamente floculados y filtrados. 
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
           .row(numero="6" titulo="Acondicionamiento de lodos")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Es un tratamiento al que se somete el fluido que viene del proceso de purificación del agua y permite una mayor filtrabilidad del lodo generando mayor eficiencia en el tratamiento de extracción de lodos.
+            .col-md-5.align-items-center
+              p.p-3 Es un tratamiento al que se somete el fluido que viene del proceso de purificación del agua y permite una mayor filtrabilidad del lodo generando mayor eficiencia en el tratamiento de extracción de lodos.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
           .row(numero="7" titulo="Limpiadores y desengrasantes")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Estos se encargan de eliminar las obstrucciones y los abridores de drenaje que disuelven la grasa y el aceite usando químicos solventes para descomponer la grasa y facilitar su remoción. 
+            .col-md-5.align-items-center
+              p.p-3 Estos se encargan de eliminar las obstrucciones y los abridores de drenaje que disuelven la grasa y el aceite usando químicos solventes para descomponer la grasa y facilitar su remoción. 
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img28.png', alt='Texto que describa la imagen')
           .row(numero="8" titulo="Limpiadores de membranas y antiincrustantes")
-            .col-md-4.mb-4.mb-md-0.mt-2
-              p Estos se inyectan en las aguas residuales antes del tratamiento para evitar que las sales minerales disueltas se fusionen en las membranas de filtración.
+            .col-md-5.align-items-center
+              p.p-3 Estos se inyectan en las aguas residuales antes del tratamiento para evitar que las sales minerales disueltas se fusionen en las membranas de filtración.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img29.png', alt='Texto que describa la imagen')
