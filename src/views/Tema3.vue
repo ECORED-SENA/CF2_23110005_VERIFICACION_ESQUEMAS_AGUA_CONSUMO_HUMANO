@@ -95,8 +95,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img09.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Expuesto lo anterior, es importante que el <strong>sistema general de riesgos laborales establezca todas aquellas actividades de promoción y prevención que logren mejorar las condiciones de trabajo y de salud</strong> de todos los empleadores, esto implica, además, protegerlos de los riesgos individuales o colectivos que puedan derivarse de la empresa sean estos físicos, químicos o biológicos.
-   
+            p.mb-0 Expuesto lo anterior, es importante que el <b>sistema general de riesgos laborales establezca todas aquellas actividades de promoción y prevención que logren mejorar las condiciones de trabajo y de salud</b> de todos los empleadores, esto implica, además, protegerlos de los riesgos individuales o colectivos que puedan derivarse de la empresa sean estos físicos, químicos o biológicos.
+            img.posit1.img93(src="@/assets/curso/tema3/img22.png")  
+
     p.m-0 Además, es importante establecer prestaciones de atención para la salud de los trabajadores y también las respectivas prestaciones económicas por la incapacidad temporal a que haya lugar frente a las contingencias de accidentes de trabajo y/o enfermedades laborales; al trabajador debe dársele la garantía de que sus derechos y sus necesidades como trabajador serán tenidas en cuenta y cumplidas por parte de la organización. Ligado a esto, se debe también hacer un reconocimiento para estas incapacidades permanentes, parciales o por invalidez, el empleador que no cumpla con la afiliación de sus trabajadores al Sistema General de Riesgos Laborales, además de las sanciones legales, será responsable de las prestaciones que se otorgan en el Decreto Ley 1295.
 
     separador

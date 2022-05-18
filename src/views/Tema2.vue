@@ -9,38 +9,38 @@
     .row.justify-content-center
        p Las plantas encargadas del tratamiento de las aguas residuales permiten contener el agua contaminada, con el fin de llevarlas a un proceso que haga posible su reutilización en varios campos, algunos de estos elementos dentro del proceso de operación son:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.p-4.tranform1.h-100
+      .tarjeta.p-4.tranform1.h-100.hoverScale2
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 Sistema de rejas
         p El cual es el medio por el que el cual el agua residual ingresa con algunos elementos pesados como arena, piedras, grasa, sólidos, entre otros, con este sistema se instalan una serie de rejillas dentro del canal de tal forma que estos obstáculos más grandes queden atrapados en la primera etapa. 
 
-      .tarjeta.p-4.tranform1.h-100
+      .tarjeta.p-4.tranform1.h-100.hoverScale2
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 Los desarenadores y desengrasadores
         p Los cuales son tanques de flujo continuo que separa la arena del líquido sin separar los sólidos orgánicos, usualmente este proceso puede ser usado también como desengrasador de manera moderada para lograr una mayor purificación del agua.
-      .tarjeta.p-4.tranform1.h-100
+      .tarjeta.p-4.tranform1.h-100.hoverScale2
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El decantador
         p Es otro elemento de este proceso y se encarga de separar diferentes componentes líquidos por densidad. Este proceso se realiza a través de la fuerza de gravedad haciendo que estos líquidos más densos vayan al fondo del decantador.
-      .tarjeta.p-4.tranform1.h-100 
+      .tarjeta.p-4.tranform1.h-100.hoverScale2 
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El reactor biológico
         p Usado para la asimilación de la materia orgánica y los nutrientes disueltos en el agua residual.
-      .tarjeta.p-4.tranform1.h-100
+      .tarjeta.p-4.tranform1.h-100.hoverScale2
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
         h2 El tanque para el tratamiento físico químico
         p Que permite alterar el estado físico de componentes en el agua como el aluminio, hidróxido o hierro y, que logran eliminar el 80 y 90% de dicha materia suspendida.
-      .tarjeta.p-4.tranform1.h-100
+      .tarjeta.p-4.tranform1.h-100.hoverScale2
         .row.mb-3
           .col-8
             img.img106(src='@/assets/curso/tema2/img01.svg' alt='AvatarTop')
@@ -59,7 +59,8 @@
             img.posit_1(src='@/assets/curso/tema2/img19.png' alt='AvatarTop')
           .bloque-texto-g__texto.p-5.posit_2
             p.mb-0 Para establecer un sistema que ponga en marcha todo el proceso de tratamiento de aguas residuales para el consumo potable, es necesario establecer un sistema de captaciones, líneas de conducción, planta de tratamiento, reservorio, redes de distribución y conexiones domiciliarias y/o públicas.
-    
+            img.posit1.img93(src="@/assets/curso/tema3/img22.png")  
+
     p.m-0.mb-5 Siendo así, a continuación, podrán observar el proceso de tratamiento de aguas residuales para el consumo potable:
     
     TabsB.color-acento-contenido.mb-5

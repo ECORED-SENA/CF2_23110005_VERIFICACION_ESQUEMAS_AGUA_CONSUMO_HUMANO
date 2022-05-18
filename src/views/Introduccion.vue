@@ -10,7 +10,7 @@
           
       h1 Introducción
     p(data-aos="fade-right") Bienvenidos a este componente formativo, donde como primera instancia, vamos a ver el siguiente video que nos dará una introducción general a la temática a tratar, para luego empezar a desarrollar cada uno de los contenidos:
-    .bgvideos.py-5.px-5.px-md-0
+    .bgvideos.py-2.py-md-5.px-2.px-md-0
       .row.justify-center
         .col-lg-10
           figure
