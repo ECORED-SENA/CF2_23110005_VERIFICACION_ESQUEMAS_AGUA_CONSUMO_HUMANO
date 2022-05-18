@@ -130,10 +130,11 @@
         p.mt-4 Por lo anterior, la norma mencionada busca que los municipios, las personas prestadoras del servicio público, usuarios, las Entidades Territoriales de Salud, los sectores productivos y las autoridades ambientales, se articulen con el propósito de realizar acciones que aporten al manejo integral de residuos sólidos y líquidos que pueden ser vertidos en las fuentes hídricas naturales que abastecen los sistemas de suministro de agua para consumo potable y así, minimizar los riesgos que esto pueda conllevar en la salud pública. 
 
     p.m-0 Actualmente, existen variedad de protocolos para monitorear los procedimientos que se llevan a cabo en la potabilización del agua, entre estos están:
-    .row.mb-5
+    <br>
+    .row.mb-5.mt-5
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/img16.svg' alt='AvatarTop')
           .tarjeta.color-primario
             .p-4
               h4 El Protocolo Nacional de Monitoreo de la Calidad en Cuerpos Naturales de Agua Superficial.
@@ -142,7 +143,7 @@
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
-          img(src='@/assets/curso/tema2/img16.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
           .tarjeta.color-acento-contenido
             .p-4
               h4 Decreto 1594 de 1984
@@ -150,7 +151,7 @@
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.justify-content-center
-          img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+          img(src='@/assets/curso/tema2/img18.svg' alt='AvatarTop')
           .tarjeta.color-secundario
             .p-4
               h4 Decreto 1575 de 2007
@@ -162,7 +163,9 @@
         p <strong> Tabla 1</strong> Normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable
       .tabla-a.color-acento-contenido.mb-5(data-aos="fade-right")
         table
-          caption <strong>Nota</strong>.  Normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable. Recuperado de 2016nicolaspaque.pdf (usta.edu.co)
+          caption 
+            p <strong>Nota.</strong>  
+              span Normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable. Recuperado de 2016nicolaspaque.pdf (usta.edu.co)
           thead
             tr
               th NORMATIVIDAD

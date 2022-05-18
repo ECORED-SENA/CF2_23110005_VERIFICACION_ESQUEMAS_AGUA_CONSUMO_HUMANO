@@ -25,7 +25,9 @@
     .row.mb-3.justify-content-center
       .col-lg-11.mb-5.mb-4.mb-md-0
         img(src='@/assets/curso/tema3/img01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
-      figcaption <strong>Nota.</strong> Organización Internacional del Trabajo. Recuperado de ¿Cómo gestionar la seguridad y salud en el trabajo? (Administración e inspección del trabajo) (ilo.org)
+      figcaption 
+        p <strong>Nota.</strong> 
+          span Organización Internacional del Trabajo. Recuperado de ¿Cómo gestionar la seguridad y salud en el trabajo? (Administración e inspección del trabajo) (ilo.org)
 
 
     separador
@@ -93,7 +95,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img09.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Expuesto lo anterior, es importante que el sistema general de riesgos laborales establezca todas aquellas actividades de promoción y prevención que logren mejorar las condiciones de trabajo y de salud de todos los empleadores, esto implica, además, protegerlos de los riesgos individuales o colectivos que puedan derivarse de la empresa sean estos físicos, químicos o biológicos.
+            p.mb-0 Expuesto lo anterior, es importante que el <strong>sistema general de riesgos laborales establezca todas aquellas actividades de promoción y prevención que logren mejorar las condiciones de trabajo y de salud</strong> de todos los empleadores, esto implica, además, protegerlos de los riesgos individuales o colectivos que puedan derivarse de la empresa sean estos físicos, químicos o biológicos.
    
     p.m-0 Además, es importante establecer prestaciones de atención para la salud de los trabajadores y también las respectivas prestaciones económicas por la incapacidad temporal a que haya lugar frente a las contingencias de accidentes de trabajo y/o enfermedades laborales; al trabajador debe dársele la garantía de que sus derechos y sus necesidades como trabajador serán tenidas en cuenta y cumplidas por parte de la organización. Ligado a esto, se debe también hacer un reconocimiento para estas incapacidades permanentes, parciales o por invalidez, el empleador que no cumpla con la afiliación de sus trabajadores al Sistema General de Riesgos Laborales, además de las sanciones legales, será responsable de las prestaciones que se otorgan en el Decreto Ley 1295.
 
@@ -133,7 +135,7 @@
         .bg06.alingxy.p-4.tranform
           figure.img90
             img(src='@/assets/curso/tema3/img15.svg', alt='')
-          h3.p-3 Guantes de plástico
+          h3.p-1 Guantes de plástico
       .col-12.col-md-3.mb-5
         .bg06.alingxy.p-4.tranform
           figure.img90

@@ -120,7 +120,9 @@
         img.pt-5.pb-5(src='@/assets/curso/tema1/img15.svg', alt='Texto que describa la imagen')(data-aos="zoom-in-right")
     .row
       .col-lg-12
-        figcaption Nota. BBVA. Tomado de Qué es el proceso de potabilización del agua y cuáles son sus fases (bbva.com)
+        figcaption
+          p <strong>Nota.</strong> 
+            span  BBVA. Tomado de Qué es el proceso de potabilización del agua y cuáles son sus fases (bbva.com)
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-left")
@@ -167,7 +169,9 @@
     .row.justify-content-center(data-aos="zoom-out")
       .col-lg-12
         img(src='@/assets/curso/tema1/img21.svg', alt='Texto que describa la imagen')(data-aos="zoom-in-right")
-        figcaption <strong>Nota.</strong> Microbiología UMH. Recuperado de animapura.gif (750x415) (educacion.es)
+        figcaption 
+          p <strong>Nota.</strong> 
+           span Microbiología UMH. Recuperado de animapura.gif (750x415) (educacion.es)
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="zoom-out-left")
