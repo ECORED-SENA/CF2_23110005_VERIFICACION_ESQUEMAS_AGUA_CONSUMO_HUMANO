@@ -54,7 +54,7 @@
     .row.justify-content-center
       .col-lg-10.mt-5
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5.position-relative
-          .bloque-texto-g__img.posit(
+          .bloque-texto-g__img.posit.tema2(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img18.png')})`}")
             img.posit_1(src='@/assets/curso/tema2/img19.png' alt='AvatarTop')
           .bloque-texto-g__texto.p-5.posit_2

@@ -70,7 +70,7 @@
     content: ''
     position: absolute
     margin: 0
-    top: 9rem
+    top: 5rem
     left: 0
     width: 100%
     height: 100%
@@ -82,6 +82,7 @@
       background-color: #D4EFFF 
       top: -20px
       height: 105%
+    
 .bg_grad-07
   position: relative
   .linea-tiempo-d,  
@@ -90,7 +91,7 @@
     content: ''
     position: absolute
     margin: 0
-    top: 20rem
+    top: 18rem
     left: 0
     width: 100%
     height: 100%
@@ -146,6 +147,14 @@
   &_1
     bottom: -42%
 
+.bloque-texto-g__img.posit.tema2
+  @media (min-width: $bp-min-xxl)
+    width: 51% !important
+  @media screen and (max-width: $bp-max-xs)
+    left: -9% !important
+    width: 109%!important
+    height: 38%!important
+    top: -9px!important
 .posit
   left: -65px !important
   background-size: contain
@@ -161,13 +170,16 @@
     left: 68px
     width: 64%
     @media screen and ( max-width: 420px )
-      left: 21px
-      width: 71%
-      top: -58px
+      display: none
+     
     @media screen and ( max-width: 1300px )
       left: 57px
       width: 70%
       top: -48px
+    @media (min-width: $bp-min-xxl)
+      top: -65px
+      left: 90px
+      width: 58%
   &_2
     @media screen and ( max-width: 420px  )
       width: 100% !important
@@ -216,18 +228,14 @@
   @media screen and ( max-width: 420px  )
     margin-left: 0px
 
+
 .bgvideos
   background-image: url("../assets/curso/bgvideos.png") 
   background-repeat: no-repeat  
   background-size: cover
   border-radius: 10px
   @media screen and ( max-width: 420px  )
-    width: 305px!important
-.bloque-texto-g__img    
-  @media screen and ( max-width: 420px  )
-    left: 0px!important
     width: 100%!important
-  
     
 .bg4
   background-image: url("../assets/curso/tema1/fondo01.png") 
@@ -394,13 +402,13 @@
 .tranform1
   background-color: #A9DFFF
   cursor: pointer
-
+  transform: scale(0.95)
   &:hover
     background: #FFBC42
 .hoverScale2
   transition: all .3s ease-in-out
   &:hover
-    transform: scale(1.1)
+    transform: scale(1)
     background-color:#FFBC42
 
 
@@ -422,14 +430,13 @@
     color: #212529
 
 .tarjeta-avatar > img 
-    top: 18px
-    width: 150px
+    width: 51%
+    top: 5px
+    
 
 .tabla-a th 
     font-size: 28px
-.tarjeta-avatar > img
-  width: 268px
-  top: -50px
+
 .titulo-sexto 
   padding: 0px 0 0px 15px
 .tabs-a__tab
