@@ -381,18 +381,20 @@
 
 @media (max-width: 992px)
   .bloque-texto-g__img 
-    width: 100%
+    width: 100%!important
     height: 50%
 
 .bloque-texto-g__img 
   width: 55%
   position: absolute
   top: 0
-  left: -46px
+  left: -48px
   bottom: 0
-  background-position: 50%
-
-
+  background-position: 40%
+  @media (max-width: 400px)
+    width: 100%!important
+    height: 50%
+    left: 0px
 .tranform
   background-color: #FFE4B3
   cursor: pointer
@@ -441,3 +443,8 @@
   padding: 0px 0 0px 15px
 .tabs-a__tab
   background-color: #E8E8E8
+
+.banner-principal__info 
+  padding-left: 20px!important
+  
+
