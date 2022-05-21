@@ -148,7 +148,7 @@
           .tarjeta.color-acento-contenido
             .p-4
               h4 Decreto 1594 de 1984
-              p Menciona el uso de sustancias para la purificación del agua, el ordenamiento del recurso, criterios de calidad, vertimiento de residuos líquidos, entre otros
+              p Menciona el uso de sustancias para la purificación del agua, el ordenamiento del recurso, criterios de calidad, vertimiento de residuos líquidos, entre otros.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar.justify-content-center
@@ -156,7 +156,7 @@
           .tarjeta.color-secundario
             .p-4
               h4 Decreto 1575 de 2007
-              p Determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratado correctamente
+              p Determina un sistema de protección y control de calidad del agua para el consumo doméstico, con el propósito de monitorear, prevenir y controlar los posibles riesgos a la salud de la población; provocados por el consumo de agua que no ha sido tratado correctamente.
 
     p.m-0.mb-5 Ahora, conozcamos un poco sobre la normatividad legal vigente sobre servicios públicos domiciliarios y criterios de calidad del agua potable:
 

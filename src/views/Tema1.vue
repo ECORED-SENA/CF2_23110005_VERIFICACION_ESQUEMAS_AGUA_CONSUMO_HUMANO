@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Identificación de sistemas de agua para consumo humano 
+      h1 Identificación de recursos para procedimientos operativos en tratamiento de aguas 
     .row.justify-content-center.mb-5
       .col-lg-4(data-aos="fade-right")
         img.imgposition(src='@/assets/curso/tema1/img01.png', alt='Texto que describa la imagen')
@@ -126,7 +126,7 @@
     
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-left")
-      h2 1.2. Técnicas de depuración de aguas residuales
+      h2 1.2 Técnicas de depuración de aguas residuales
 
     p.mb-5 Para conocer la temática al respecto, es importante primero que todo saber cuáles son los tipos de depuración de aguas residuales:
 

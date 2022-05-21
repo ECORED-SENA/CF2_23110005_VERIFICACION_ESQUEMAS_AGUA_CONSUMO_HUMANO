@@ -49,11 +49,11 @@
         .col-lg-8
           p.mb-5 Ahora bien, para dar cumplimiento a lo mencionado, el Ministerio de Trabajo está comprometido con las políticas de protección de los trabajadores en Colombia y va en coherencia con las <strong>normas establecidas por el Sistema de Gestión de Seguridad y Salud en el Trabajo (SG-SST)</strong>, este concepto se basa en el desarrollo de un proceso lógico y por etapas, que busca la eficiencia y la mejora continua de sus procesos, lo cual incluye una <strong>política, organización, planificación, aplicación, evaluación, auditoría y acciones de mejora con el propósito de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en los espacios laborales (Mintrabajo, 2022)</strong>. 
            .bgt3
-            p.mt-3.py-3.pe-3.ps-3.p-3 El objetivo general del <strong>sistema de seguridad y salud en el trabajo es asegurar el cumplimiento de las normas mínimas establecidas para dar cumplimiento a la protección de la integridad del trabajador</strong>teniendo en cuenta las situaciones peligrosas y las acciones preventivas en las que este pueda incurrir, asimismo, este sistema tiene como ventajas, la mejora del medio ambiente laboral, el bienestar y la calidad de vida en un entorno de trabajo, la reducción de tasas de ausentismo por enfermedad o incapacidad, la disminución de tasas de accidentalidad o mortalidad por accidentes de trabajo y el debido cumplimiento y control. 
+            p.mt-3.py-3.pe-3.ps-3.p-3 El objetivo general del <strong>sistema de seguridad y salud en el trabajo es asegurar el cumplimiento de las normas mínimas establecidas para dar cumplimiento a la protección de la integridad del trabajador</strong> teniendo en cuenta las situaciones peligrosas y las acciones preventivas en las que este pueda incurrir, asimismo, este sistema tiene como ventajas, la mejora del medio ambiente laboral, el bienestar y la calidad de vida en un entorno de trabajo, la reducción de tasas de ausentismo por enfermedad o incapacidad, la disminución de tasas de accidentalidad o mortalidad por accidentes de trabajo y el debido cumplimiento y control. 
             
     separador
     #t_3_2.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
-      h2 3.2. Tipos de riesgo, contingencias
+      h2 3.2 Tipos de riesgo, contingencias
 
     p Dentro de la seguridad y salud en el trabajo, como ya se expuso con anterioridad, pueden existir diversos factores de riesgo que incrementan la posibilidad de mayor número de accidentes o afecciones para la salud de los empleados. Según el concepto de salud de la Organización Mundial de la Salud (OMS), “estos riesgos se pueden definir como aquellas situaciones de trabajo capaces de romper con el equilibrio físico, mental y social de las personas” (Asiprex, 2021).
     p Dicho lo anterior, se pueden clasificar los factores de riesgo y/o contingencias laborales en los siguientes grupos: 
@@ -102,7 +102,7 @@
 
     separador
     #t_3_3.titulo-segundo.color-acento-contenido.mt-4(data-aos="zoom-out-left")
-      h2 3.3. Elementos de protección personal 
+      h2 3.3 Elementos de protección personal 
     p.m-0.mb-5 Los Elementos de Protección Personal (EPP) son todos aquellos equipos que están destinados a proteger de varios riesgos que puedan poner en riesgo su salud o seguridad en el trabajo; además, de esto un elemento de protección personal importante es la capacitación continua del uso de los mismos, de las medidas preventivas al momento de realizar las labores correspondientes a cada operador de la planta. Dentro de los EPP utilizados se pueden mencionar:
 
     .row.justify-content-center
