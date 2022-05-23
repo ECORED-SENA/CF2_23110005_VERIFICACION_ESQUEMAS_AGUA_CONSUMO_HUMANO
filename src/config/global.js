@@ -102,7 +102,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
+        titulo: 'Sintesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -275,7 +275,7 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Yuly Rey',
+        nombre: 'Yuly Andrea Rey Quiñonez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
