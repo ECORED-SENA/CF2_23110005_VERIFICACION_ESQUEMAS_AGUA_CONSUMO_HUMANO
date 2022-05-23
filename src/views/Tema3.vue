@@ -24,7 +24,7 @@
       span ¿Cómo gestionar la seguridad y salud en el trabajo?
     .row.mb-3.justify-content-center
       .col-lg-11.mb-5.mb-4.mb-md-0
-        img(src='@/assets/curso/tema3/img01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
+        img.mb-5(src='@/assets/curso/tema3/img01.svg', alt='Texto que describa la imagen')(data-aos="fade-left")
       figcaption 
         p <strong>Nota.</strong> 
           span Organización Internacional del Trabajo. Recuperado de ¿Cómo gestionar la seguridad y salud en el trabajo? (Administración e inspección del trabajo) (ilo.org)

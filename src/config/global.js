@@ -239,6 +239,28 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'Lizeth Daniela Reinoso Díaz',
+        cargo: 'Experta Temática',
+        centro: 'Regional Tolima - Centro Agropecuario La Granja',
+      },
+      {
+        nombre: 'Miroslava González Hernández',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Regional Norte de Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Diego Acevedo',
+        cargo: 'Diseñador Instrucciona',
+        centro:
+          'Regional Norte de Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor Metodológico',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+      },
     ],
     desarrolloProducto: [
       {
