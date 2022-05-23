@@ -252,7 +252,7 @@ export default {
       },
       {
         nombre: 'Diego Acevedo',
-        cargo: 'Diseñador Instrucciona',
+        cargo: 'Diseñador Instruccional',
         centro:
           'Regional Norte de Santander - Centro Industrial del Diseño y la Manufactura',
       },
