@@ -102,7 +102,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -219,7 +219,7 @@ export default {
     },
     {
       texto:
-        'SENA. (2021). Sistemas de gestión de la seguridad y salud en el trabajo. Sistemas de gestión de la seguridad y salud en el trabajo',
+        'SENA. (2021). Sistemas de gestión de la seguridad y salud en el trabajo.',
       tipo: 'Video',
       link: 'https://youtu.be/5CF3HZdu6Bc',
     },

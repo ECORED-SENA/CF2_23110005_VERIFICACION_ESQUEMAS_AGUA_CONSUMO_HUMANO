@@ -67,8 +67,8 @@
           .col-md-4.col-md-7.col-lg-7
             img(src='@/assets/curso/tema3/img05.png')
       .tarjeta.bg2.p-4(titulo="Condiciones ligadas al medio ambiente")  
-        .row.justify-content-center
-          .col-md-4.mb-4
+        .row.justify-content-center.align-items-center
+          .col-md-5.mb-4
             h3 Condiciones ligadas al medio ambiente
             p Estos pueden ser físicos; como contaminación auditiva, vibraciones o movimientos fuertes que afecten la salud del trabajador, iluminación inadecuada, entre otros. También pueden ser químicos, que pueden ser sustancias requeridas para la actividad laboral y llegan a afectar al trabajador provocando problemas respiratorios, visuales o afecciones dermatológicas y, por último, están los riesgos biológicos que depende según el sector empresarial para el cual se esté laborando, por ejemplo, puede ser un entorno farmacéutico o sanitario, que son espacios donde más exposición a contaminantes, infecciones y virus existen.
           .col-md-4.col-md-7.col-lg-7

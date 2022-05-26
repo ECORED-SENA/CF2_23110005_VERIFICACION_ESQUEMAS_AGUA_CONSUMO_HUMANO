@@ -37,7 +37,7 @@
           img(src='@/assets/curso/tema1/img03.png')
       .row(titulo="Redes pseudo - separativas")
         .col-md-6.align-items-center
-          p.p-5 Son las intermedias entre las unitarias y separativas y tienen canalizaciones separadas para aislar las aguas lluvias y residuales en la calle, pero no en los domicilios y empresas
+          p.p-5 Son las intermedias entre las unitarias y separativas y tienen canalizaciones separadas para aislar las aguas lluvias y residuales en la calle, pero no en los domicilios y empresas.
         .col-lg-5.col-md-6.col-12.p-0
           img(src='@/assets/curso/tema1/img04.svg')
       .row(titulo="Redes doblemente separativas")
@@ -61,7 +61,7 @@
                 img(src='@/assets/curso/tema1/img06.png', alt='Texto que describa la imagen')
           .row(numero="2" titulo="Tratamiento primario")
             .col-md-5.align-items-center
-              p.p-3 En el cual se elimina la materia decantable orgánica e inorgánica realizada a través de la decantación
+              p.p-3 En el cual se elimina la materia decantable orgánica e inorgánica realizada a través de la decantación.
             .col-md-7
               figure
                 img(src='@/assets/curso/tema1/img07.png', alt='Texto que describa la imagen')
@@ -109,7 +109,7 @@
         .tarjeta--boton.color-secundario.text-white--hover.p-5
           figure.mb-3
             img.img115(src='@/assets/curso/tema1/img14.svg', alt='Texto que describa la imagen')
-          p.m-0 <strong>Por último,</strong> está la desalinización, tratamiento encargado de la eliminación de sales disueltas del agua por medio de ósmosis inversa, intercambio iónico, destilación, entre otros (BBVA, 2021)
+          p.m-0 <strong>Por último,</strong> está la desalinización, tratamiento encargado de la eliminación de sales disueltas del agua por medio de ósmosis inversa, intercambio iónico, destilación, entre otros (BBVA, 2021).
 
     p.m-0.mt-5.mb-5 A continuación, se mostrarán las fases de la potabilización del agua:
        .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
@@ -153,7 +153,7 @@
         .tarjeta.tarjetas-text
           img(src="@/assets/curso/tema1/img18.png" alt="Adornos flotantes" style="width: 100% ").mb-3
           .tarjetas-text__contenido.btt_1.p-5
-            h3 Procesos químicos
+            h3 Procesos biológicos
             p Este es el más influyente en la eliminación de contaminantes en el tratamiento de aguas residuales, ya que este proceso favorece el proceso biológico de algunos microorganismos que se alimentan de sustancias orgánicas biodegradables. 
         img.d-flex.d-lg-none(src="@/assets/curso/tema1/img39.svg" alt="Adornos flotantes" style="width: 100% ").
       img.d-none.d-lg-flex(src='@/assets/curso/tema1/img19.svg', alt='Texto que describa la imagen')
